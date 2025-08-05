@@ -1,6 +1,6 @@
 
 #### Main Code (Kayo-FileOrganizer.py):
-```python
+
 import os
 import shutil
 import sys
